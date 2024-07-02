@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">"First, solve the problem. Then, write the code." — John Johnson</h3>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielipcarvalho&show_icons=true&locale=en&theme=dark" alt="gabrielipcarvalho" />
-</p>
+<h3 align="center">✨✨🪄 Bibbidi Bobbidi Boo ✨✨🪄</h3>
 
 ---
 
