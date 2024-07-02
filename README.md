@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **gabrielipcarvalho@gmail.com**
 - ⚡ Fun fact **Beat me at Tetris, if you can.**  
-  <img src="tetris.png" width="20" height="20" style="vertical-align: middle;" />
+                                       <img src="tetris.png" width="20" height="20" style="vertical-align: middle;" />
 
 
 ---
