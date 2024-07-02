@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **learning, learning, learning!**
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **gabrielipcarvalho@gmail.com**
-- ⚡ Fun fact **Beat me at Tetris, if you can.**
+- ⚡ Fun fact **Beat me at Tetris, if you can.** [Tetris Icon](https://cdn-icons-png.flaticon.com/512/814/814513.png)
 
 ---
 
