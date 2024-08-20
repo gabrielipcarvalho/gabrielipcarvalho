@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel-ipcarvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-ipcarvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
@@ -48,93 +48,93 @@
 ### **Cloud Platforms** 🌥️
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" alt="Azure" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" alt="Google Cloud" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/>
   </a>
 </p>
 
 ### **Programming Languages** 💻
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" alt="Python" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
 
 ### **Frameworks & Libraries** 📚
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" alt="React" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" alt="React" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" alt="Flask" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios/40/000000/flask.png" alt="Flask" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/django.svg" alt="Django" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-django-is-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="Django" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pytorch.svg" alt="PyTorch" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
   </a>
 </p>
 
 ### **DevOps & Containers** 🛠️
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="Docker" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
   </a>
 </p>
 
 ### **Databases** 📊
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sqlite.svg" alt="SQLite" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" width="40" height="40"/>
   </a>
 </p>
 
 ### **Other Tools** 🔧
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" alt="Bash" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/gnu-bash.png" alt="Bash" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="Git" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" alt="Nginx" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/xamarin.svg" alt="Xamarin" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/xamarin.png" alt="Xamarin" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/matlab.svg" alt="MATLAB" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/selenium.svg" alt="Selenium" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/>
   </a>
 </p>
 
