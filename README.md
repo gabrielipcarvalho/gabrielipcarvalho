@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel-ipcarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-ipcarvalho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-ipcarvalho" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
@@ -48,93 +48,93 @@
 ### **Cloud Platforms** 🌥️
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/microsoftazure.svg" alt="Azure" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    <img src="https://simpleicons.org/icons/googlecloud.svg" alt="Google Cloud" width="40" height="40"/>
   </a>
 </p>
 
 ### **Programming Languages** 💻
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
 
 ### **Frameworks & Libraries** 📚
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/react.svg" alt="React" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/flask.svg" alt="Flask" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/django.svg" alt="Django" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" width="40" height="40"/>
   </a>
 </p>
 
 ### **DevOps & Containers** 🛠️
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+    <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
 </p>
 
 ### **Databases** 📊
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://simpleicons.org/icons/sqlite.svg" alt="SQLite" width="40" height="40"/>
   </a>
 </p>
 
 ### **Other Tools** 🔧
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/gnubash.svg" alt="Bash" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/nginx.svg" alt="Nginx" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/xamarin.svg" alt="Xamarin" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+    <img src="https://simpleicons.org/icons/matlab.svg" alt="MATLAB" width="40" height="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://simpleicons.org/icons/selenium.svg" alt="Selenium" width="40" height="40"/>
   </a>
 </p>
 
