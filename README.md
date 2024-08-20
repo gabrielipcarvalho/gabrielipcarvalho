@@ -4,20 +4,35 @@
 
 ---
 
-<h4 align="center">🚀 Tech enthusiast on a wild ride from law to code! Currently wrapping up my Master’s in IT, where I’m fine-tuning AI models and automating all the things with Python. Got hooked on tech at 13 when I installed Debian (after many attempts and a few choice words 😅). Coding is my modern magic — where logic meets creativity. Proud Slytherin 🐍, D&D nerd 🎲, and always up for a laugh. Ready to build cool stuff, break things, and learn along the way. Let’s make some digital magic together! ✨</h3>
+<h4 align="justify">🚀 Tech enthusiast on a wild ride from law to code! Currently wrapping up my Master’s in IT, where I’m fine-tuning AI models and automating all the things with Python. Got hooked on tech at 13 when I installed Debian (after many attempts and a few choice words 😅). Coding is my modern magic — where logic meets creativity. Proud Slytherin 🐍, D&D nerd 🎲, and always up for a laugh. Ready to build cool stuff, break things, and learn along the way. Let’s make some digital magic together! ✨</h4>
 
 ---
-- 🔭 I’m currently working on [My Mater's Dissertation](https://github.com/gabrielipcarvalho/dissertation)
 
-- 🌱 I’m currently learning **AI Engineering🧠 / Advanced Python for automation and data science🐍 / React Native to build cross-platform magic with JavaScript📱 / Everything I can about cutting-edge tech — because curiosity never sleeps!🔍**
+- 🔭 I’m currently working on:
+  - [My Master's Dissertation](https://github.com/gabrielipcarvalho/dissertation)
 
-- 👨‍💻 All of my projects are available at [https://gabrielipcarvalho.pythonanywhere.com/](https://gabrielipcarvalho.pythonanywhere.com/)
+- 🌱 I’m currently learning: 
+  - 🧠 AI Engineering
+  - 🐍 Advanced Python for automation and data science
+  - 📱 React Native to build cross-platform magic with JavaScript
+  - 🔍 Everything I can about cutting-edge tech — because curiosity never sleeps!
 
-- 💬 Ask me about **AI & Machine Learning—let’s talk about training models and making predictions! 🤖 Python—from automation scripts to data crunching, I’ve got you covered. 🐍 Linux & Open Source—I’m a Debian fan since 13, so let’s geek out about the command line! 💻 Dungeons & Dragons—need help crafting a campaign or rolling the perfect character? I’m your person. 🎲 Slytherin House — why being achievement-oriented and resourceful is totally awesome. 🐍**
+- 👨‍💻 All of my projects are available at: 
+  - My portfolio website: [https://gabrielipcarvalho.pythonanywhere.com/](https://gabrielipcarvalho.pythonanywhere.com/)
+  - My repos here at GitHub
 
-- 📫 How to reach me **gabrielipcarvalho@gmail.com / Discord(gabriel.ipcarvalho)**
+- 💬 Ask me about: 
+  - AI & Machine Learning—let’s talk about training models and making predictions! 🤖 
+  - Python—from automation scripts to data crunching, I’ve got you covered. 🐍 
+  - Linux & Open Source—I’m a Debian fan since 13, so let’s geek out about the command line! 💻 
+  - Dungeons & Dragons—need help crafting a campaign or rolling the perfect character? I’m your person. 🎲
+  - Slytherin House — why being achievement-oriented and resourceful is totally awesome. 🐍
 
-- ⚡ Fun fact **beat me at Tetris, if you can!**
+- 📫 How to reach me: 
+  - gabrielipcarvalho@gmail.com / Discord(gabriel.ipcarvalho)
+
+- ⚡ Fun fact: 
+  - Beat me at Tetris, if you can!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
