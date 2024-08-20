@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">🚀 Tech enthusiast on a wild ride from law to code! Currently wrapping up my Master’s in IT, where I’m fine-tuning AI models and automating all the things with Python. Got hooked on tech at 13 when I installed Debian (after many attempts and a few choice words 😅). Coding is my modern magic — where logic meets creativity. Proud Slytherin 🐍, D&D nerd 🎲, and always up for a laugh. Ready to build cool stuff, break things, and learn along the way. Let’s make some digital magic together! ✨</h3>
+<h4 align="center">🚀 Tech enthusiast on a wild ride from law to code! Currently wrapping up my Master’s in IT, where I’m fine-tuning AI models and automating all the things with Python. Got hooked on tech at 13 when I installed Debian (after many attempts and a few choice words 😅). Coding is my modern magic — where logic meets creativity. Proud Slytherin 🐍, D&D nerd 🎲, and always up for a laugh. Ready to build cool stuff, break things, and learn along the way. Let’s make some digital magic together! ✨</h3>
 
 ---
 - 🔭 I’m currently working on [My Mater's Dissertation](https://github.com/gabrielipcarvalho/dissertation)
