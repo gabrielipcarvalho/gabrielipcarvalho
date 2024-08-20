@@ -48,93 +48,93 @@
 ### **Cloud Platforms** 🌥️
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazon-aws&logoColor=white" alt="AWS"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?logo=microsoft-azure&logoColor=white" alt="Azure"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   </a>
 </p>
 
 ### **Programming Languages** 💻
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" alt="Python"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
 </p>
 
 ### **Frameworks & Libraries** 📚
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" alt="React" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/40/000000/flask.png" alt="Flask" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white" alt="Flask"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
 </p>
 
 ### **DevOps & Containers** 🛠️
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white" alt="Docker"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   </a>
 </p>
 
 ### **Databases** 📊
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite"/>
   </a>
 </p>
 
 ### **Other Tools** 🔧
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white" alt="Bash"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" alt="Git"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white" alt="Nginx"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/xamarin.png" alt="Xamarin" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Xamarin-%233098D6.svg?logo=xamarin&logoColor=white" alt="Xamarin"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/MATLAB-%23000000.svg?logo=mathworks&logoColor=white" alt="MATLAB"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?logo=selenium&logoColor=white" alt="Selenium"/>
   </a>
 </p>
 
