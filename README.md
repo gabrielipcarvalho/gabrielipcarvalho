@@ -83,10 +83,10 @@
     <img src="https://img.icons8.com/ios/40/000000/flask.png" alt="Flask" width="40" height="40"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-django-is-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="Django" width="40" height="40"/>
+    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="80" height="40"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="80" height="40"/>
   </a>
 </p>
 
@@ -119,7 +119,7 @@
 ### **Other Tools** 🔧
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/gnu-bash.png" alt="Bash" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="80" height="40"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
@@ -131,7 +131,7 @@
     <img src="https://img.icons8.com/color/48/000000/xamarin.png" alt="Xamarin" width="40" height="40"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="80" height="40"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/>
