@@ -140,10 +140,10 @@
 
 ---
 
-<table>
-  <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielipcarvalho&show_icons=true&locale=en&theme=dark" alt="gabrielipcarvalho" /></td>
-    <td><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielipcarvalho&theme=dark" alt="gabrielipcarvalho" /></td>
+<table style="border:none; border-collapse: collapse;">
+  <tr style="border:none;">
+    <td style="border:none;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielipcarvalho&show_icons=true&locale=en&theme=dark" alt="gabrielipcarvalho" /></td>
+    <td style="border:none;"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielipcarvalho&theme=dark" alt="gabrielipcarvalho" /></td>
   </tr>
 </table>
 
