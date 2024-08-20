@@ -97,10 +97,16 @@
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white" alt="Nginx"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" alt="Git"/>
   </a>
 </p>
 
-### **Databases** 📊
+### **Databases & Data Processing** 📊
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -113,25 +119,16 @@
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite"/>
-  </a>
-</p>
-
-### **Other Tools** 🔧
-<p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white" alt="Bash"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" alt="Git"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white" alt="Nginx"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Xamarin-%233098D6.svg?logo=xamarin&logoColor=white" alt="Xamarin"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MATLAB-%23000000.svg?logo=mathworks&logoColor=white" alt="MATLAB"/>
+  </a>
+</p>
+
+### **Scripting & Automation** 🔧
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white" alt="Bash"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?logo=selenium&logoColor=white" alt="Selenium"/>
