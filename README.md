@@ -41,7 +41,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/gabriel-ipcarvalho" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
