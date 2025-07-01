@@ -5,8 +5,7 @@
 ---
 
 <h4 align="justify">🚀 PhD Candidate at Griffith University, QLD, diving deep into the architecture of dynamic, modular AI agents for real-time decision-making (you can call it the "Rabbit Hole" 🤪). With a professional background in DevOps and software engineering, I thrive at the intersection of low-level systems (C/C++), scalable cloud infrastructure (AWS, Docker, Kubernetes), and intelligent applications (Python, TensorFlow, PyTorch). My journey started at 13 with a stubborn Debian install 🐧. 
-  
-Still a proud Slytherin 🐍, D&D nerd 🎲, ready to build cool stuff, break things, and learn along the way 📚. Let’s make some digital magic together! ✨</h4>
+  Still a proud Slytherin 🐍, D&D nerd 🎲, ready to build cool stuff, break things, and learn along the way 📚. Let’s make some digital magic together! ✨</h4>
 
 ---
 
