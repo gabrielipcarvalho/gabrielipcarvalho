@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">"Talk is cheap. Show me the code." ― Linus Torvalds"</h3>
+<h3 align="center">"Talk is cheap. Show me the code." ― Linus Torvalds</h3>
 <h3 align="center">✨✨🪄 Bibbidi Bobbidi Boo ✨✨🪄</h3>
 
 ---
