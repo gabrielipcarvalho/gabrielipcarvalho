@@ -22,7 +22,7 @@
 
 - 👨‍💻 **All of my projects are available at:**
   - My repositories here on GitHub.
-  - My portfolio website: [https://gabrielipcarvalho.pythonanywhere.com/](https://gabrielipcarvalho.pythonanywhere.com/)
+  - My portfolio website: [https://gipc.dev/](https://gipc.dev/)
 
 - 💬 **Ask me about:**
   - Explainable AI (XAI), MLOps, and building autonomous agent systems. 🤖
